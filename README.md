@@ -29,6 +29,6 @@ To complete the course, I'll build my own data engineering pipeline from scratch
 ![](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/images/architecture/photo1700757552.jpeg)
 
 ### Skillset
-- Python, SQL
+- Python, SQL, YAML
 - Docker
 - PostgreSQL
