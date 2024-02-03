@@ -34,3 +34,13 @@ override.tf.json
 terraform.rc
 
 *.json
+
+# PostgreSQL
+*.sql
+*.sql.gz
+*.pg_dump
+*.pg_dump.gz
+*.pg_dumpall
+*.pg_dumpall.gz
+*.pg_restore
+*.pg_restore.gz
